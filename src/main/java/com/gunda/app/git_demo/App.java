@@ -7,6 +7,13 @@ public class App {
 			System.out.println("data is correct");
 
 	}
+	public void methodAdded()
+	{
+		System.out.println("added by developer 2");
+	}
+	
+	
+	
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
