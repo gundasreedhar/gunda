@@ -13,6 +13,11 @@ public class App {
 	}
 	
 	
+	public void displayNames()
+	{
+		System.out.println("names displayed");
+	}
+	
 	
 
 	public static void main(String[] args) {
